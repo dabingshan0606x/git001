@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[zh_CN]=/
+Exec=/usr/local/bin/win
+Name[zh_CN]=windows还原
+Name=windows还原
+Icon=/usr/share/icons/gnome/256x256/apps/utilities-system-monitor.png
